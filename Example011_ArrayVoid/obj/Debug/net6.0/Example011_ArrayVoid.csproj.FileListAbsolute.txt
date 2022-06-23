@@ -1,0 +1,15 @@
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Example011_ArrayVoid\bin\Debug\net6.0\Example011_ArrayVoid.exe
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Example011_ArrayVoid\bin\Debug\net6.0\Example011_ArrayVoid.deps.json
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Example011_ArrayVoid\bin\Debug\net6.0\Example011_ArrayVoid.runtimeconfig.json
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Example011_ArrayVoid\bin\Debug\net6.0\Example011_ArrayVoid.dll
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Example011_ArrayVoid\bin\Debug\net6.0\Example011_ArrayVoid.pdb
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Example011_ArrayVoid\obj\Debug\net6.0\Example011_ArrayVoid.csproj.AssemblyReference.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Example011_ArrayVoid\obj\Debug\net6.0\Example011_ArrayVoid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Example011_ArrayVoid\obj\Debug\net6.0\Example011_ArrayVoid.AssemblyInfoInputs.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Example011_ArrayVoid\obj\Debug\net6.0\Example011_ArrayVoid.AssemblyInfo.cs
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Example011_ArrayVoid\obj\Debug\net6.0\Example011_ArrayVoid.csproj.CoreCompileInputs.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Example011_ArrayVoid\obj\Debug\net6.0\Example011_ArrayVoid.dll
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Example011_ArrayVoid\obj\Debug\net6.0\refint\Example011_ArrayVoid.dll
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Example011_ArrayVoid\obj\Debug\net6.0\Example011_ArrayVoid.pdb
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Example011_ArrayVoid\obj\Debug\net6.0\Example011_ArrayVoid.genruntimeconfig.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Example011_ArrayVoid\obj\Debug\net6.0\ref\Example011_ArrayVoid.dll
