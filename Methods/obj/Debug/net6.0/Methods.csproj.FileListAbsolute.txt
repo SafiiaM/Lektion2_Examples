@@ -1,0 +1,15 @@
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Methods\obj\Debug\net6.0\Methods.csproj.AssemblyReference.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Methods\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Methods\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Methods\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Methods\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Methods\bin\Debug\net6.0\Methods.exe
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Methods\bin\Debug\net6.0\Methods.deps.json
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Methods\bin\Debug\net6.0\Methods.runtimeconfig.json
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Methods\bin\Debug\net6.0\Methods.dll
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Methods\bin\Debug\net6.0\Methods.pdb
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Methods\obj\Debug\net6.0\Methods.dll
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Methods\obj\Debug\net6.0\refint\Methods.dll
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Methods\obj\Debug\net6.0\Methods.pdb
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Methods\obj\Debug\net6.0\Methods.genruntimeconfig.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\Methods\obj\Debug\net6.0\ref\Methods.dll
