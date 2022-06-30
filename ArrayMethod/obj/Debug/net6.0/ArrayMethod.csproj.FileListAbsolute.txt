@@ -1,0 +1,15 @@
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\ArrayMethod\obj\Debug\net6.0\ArrayMethod.csproj.AssemblyReference.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\ArrayMethod\obj\Debug\net6.0\ArrayMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\ArrayMethod\obj\Debug\net6.0\ArrayMethod.AssemblyInfoInputs.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\ArrayMethod\obj\Debug\net6.0\ArrayMethod.AssemblyInfo.cs
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\ArrayMethod\obj\Debug\net6.0\ArrayMethod.csproj.CoreCompileInputs.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\ArrayMethod\bin\Debug\net6.0\ArrayMethod.exe
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\ArrayMethod\bin\Debug\net6.0\ArrayMethod.deps.json
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\ArrayMethod\bin\Debug\net6.0\ArrayMethod.runtimeconfig.json
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\ArrayMethod\bin\Debug\net6.0\ArrayMethod.dll
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\ArrayMethod\bin\Debug\net6.0\ArrayMethod.pdb
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\ArrayMethod\obj\Debug\net6.0\ArrayMethod.dll
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\ArrayMethod\obj\Debug\net6.0\refint\ArrayMethod.dll
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\ArrayMethod\obj\Debug\net6.0\ArrayMethod.pdb
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\ArrayMethod\obj\Debug\net6.0\ArrayMethod.genruntimeconfig.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\ArrayMethod\obj\Debug\net6.0\ref\ArrayMethod.dll
