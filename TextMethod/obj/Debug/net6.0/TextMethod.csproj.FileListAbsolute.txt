@@ -1,0 +1,15 @@
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\TextMethod\obj\Debug\net6.0\TextMethod.csproj.AssemblyReference.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\TextMethod\obj\Debug\net6.0\TextMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\TextMethod\obj\Debug\net6.0\TextMethod.AssemblyInfoInputs.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\TextMethod\obj\Debug\net6.0\TextMethod.AssemblyInfo.cs
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\TextMethod\obj\Debug\net6.0\TextMethod.csproj.CoreCompileInputs.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\TextMethod\bin\Debug\net6.0\TextMethod.exe
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\TextMethod\bin\Debug\net6.0\TextMethod.deps.json
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\TextMethod\bin\Debug\net6.0\TextMethod.runtimeconfig.json
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\TextMethod\bin\Debug\net6.0\TextMethod.dll
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\TextMethod\bin\Debug\net6.0\TextMethod.pdb
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\TextMethod\obj\Debug\net6.0\TextMethod.dll
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\TextMethod\obj\Debug\net6.0\refint\TextMethod.dll
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\TextMethod\obj\Debug\net6.0\TextMethod.pdb
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\TextMethod\obj\Debug\net6.0\TextMethod.genruntimeconfig.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Lektion2_Examples\Example008_Max9\Lektion2_Examples\TextMethod\obj\Debug\net6.0\ref\TextMethod.dll
